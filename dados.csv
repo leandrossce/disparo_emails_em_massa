@@ -1,5 +1,5 @@
-cnpj;nome empresa;email;arquivo
-xxxxxx;empresa1;teste1@gmail.com;C:\\Users\\Gabriel\\Downloads\\pdf\\esse.pdf
-xxxxxx;empresa2;teste2@gmail.com;C:\\Users\\Gabriel\\Downloads\\pdf\\esse2.pdf
-xxxxxx;empresa3;teste3@gmail.com;C:\\Users\\Gabriel\\Downloads\\pdf\\esse3.pdf
-xxxxxx;empresa4;teste4@;C:\\Users\\Gabriel\\Downloads\\pdf\\esse4.pdf
+cnpj;nome empresa;email;arquivo;imagem
+xxxxxx;empresa1;teste1@gmail.com;C:\\Users\\Gabriel\\Downloads\\pdf\\esse.pdf;C:\\Users\\Gabriel\\Downloads\\pdf\\imagem.jpg
+xxxxxx;empresa2;teste2@gmail.com;C:\\Users\\Gabriel\\Downloads\\pdf\\esse2.pdf;""""""
+xxxxxx;empresa3;teste3@gmail.com;C:\\Users\\Gabriel\\Downloads\\pdf\\esse3.pdf;C:\\Users\\Gabriel\\Downloads\\pdf\\imagem.jpg
+xxxxxx;empresa4;teste4@;C:\\Users\\Gabriel\\Downloads\\pdf\\esse4.pdf;""""""
